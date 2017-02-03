@@ -1,0 +1,443 @@
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Part 1
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+SERVER :
+
+------------------------------------------------------------
+Server listening on UDP port 5001
+Receiving 1470 byte datagrams
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[ 15] local 10.0.0.2 port 5001 connected with 10.0.0.1 port 51720
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[ 15]  0.0- 1.0 sec  60.3 KBytes   494 Kbits/sec  11.996 ms    0/   42 (0%)
+[ 15]  1.0- 2.0 sec  58.9 KBytes   482 Kbits/sec  12.900 ms    0/   41 (0%)
+[ 15]  2.0- 3.0 sec  60.3 KBytes   494 Kbits/sec  12.990 ms    0/   42 (0%)
+[ 15]  3.0- 4.0 sec  58.9 KBytes   482 Kbits/sec  12.969 ms    0/   41 (0%)
+[ 15]  4.0- 5.0 sec  58.9 KBytes   482 Kbits/sec  12.964 ms    0/   41 (0%)
+[ 15]  5.0- 6.0 sec  60.3 KBytes   494 Kbits/sec  12.978 ms    0/   42 (0%)
+[ 15]  6.0- 7.0 sec  58.9 KBytes   482 Kbits/sec  12.962 ms    0/   41 (0%)
+[ 15]  7.0- 8.0 sec  58.9 KBytes   482 Kbits/sec  12.974 ms    0/   41 (0%)
+[ 15]  8.0- 9.0 sec  60.3 KBytes   494 Kbits/sec  12.964 ms    0/   42 (0%)
+[ 15]  9.0-10.0 sec  58.9 KBytes   482 Kbits/sec  12.971 ms    0/   41 (0%)
+[ 15] 10.0-11.0 sec  58.9 KBytes   482 Kbits/sec  12.978 ms    0/   41 (0%)
+[ 15] 11.0-12.0 sec  60.3 KBytes   494 Kbits/sec  12.975 ms    0/   42 (0%)
+[ 15] 12.0-13.0 sec  58.9 KBytes   482 Kbits/sec  13.012 ms    0/   41 (0%)
+[ 15] 13.0-14.0 sec  58.9 KBytes   482 Kbits/sec  12.980 ms    0/   41 (0%)
+[ 15] 14.0-15.0 sec  60.3 KBytes   494 Kbits/sec  12.977 ms    0/   42 (0%)
+[ 15] 15.0-16.0 sec  58.9 KBytes   482 Kbits/sec  12.991 ms    0/   41 (0%)
+[ 15] 16.0-17.0 sec  58.9 KBytes   482 Kbits/sec  12.978 ms    0/   41 (0%)
+[ 15]  0.0-17.8 sec  1.03 MBytes   487 Kbits/sec  35.696 ms  155/  893 (17%)
+
+===============================================================================================================================
+CLIENT :
+
+------------------------------------------------------------
+Client connecting to 10.0.0.2, UDP port 5001
+Sending 1470 byte datagrams
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[ 15] local 10.0.0.1 port 51720 connected with 10.0.0.2 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[ 15]  0.0- 1.0 sec   129 KBytes  1.06 Mbits/sec
+[ 15]  1.0- 2.0 sec   128 KBytes  1.05 Mbits/sec
+[ 15]  2.0- 3.0 sec   128 KBytes  1.05 Mbits/sec
+[ 15]  3.0- 4.0 sec   128 KBytes  1.05 Mbits/sec
+[ 15]  4.0- 5.0 sec   128 KBytes  1.05 Mbits/sec
+[ 15]  5.0- 6.0 sec   128 KBytes  1.05 Mbits/sec
+[ 15]  6.0- 7.0 sec   129 KBytes  1.06 Mbits/sec
+[ 15]  7.0- 8.0 sec   128 KBytes  1.05 Mbits/sec
+[ 15]  8.0- 9.0 sec   128 KBytes  1.05 Mbits/sec
+[ 15]  9.0-10.0 sec   128 KBytes  1.05 Mbits/sec
+[ 15]  0.0-10.0 sec  1.25 MBytes  1.05 Mbits/sec
+[ 15] Sent 893 datagrams
+
+
+
+===============================================================================================================================
+
+
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Part 2
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+SERVER :
+------------------------------------------------------------
+Server listening on UDP port 5001
+Receiving 1470 byte datagrams
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[ 15] local 10.0.0.2 port 5001 connected with 10.0.0.1 port 39072
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[ 15]  0.0- 1.0 sec  60.3 KBytes   494 Kbits/sec  11.982 ms    0/   42 (0%)
+[ 15]  1.0- 2.0 sec  58.9 KBytes   482 Kbits/sec  12.904 ms    0/   41 (0%)
+[ 15]  2.0- 3.0 sec  60.3 KBytes   494 Kbits/sec  12.952 ms    0/   42 (0%)
+[ 15]  3.0- 4.0 sec  58.9 KBytes   482 Kbits/sec  12.957 ms    0/   41 (0%)
+[ 15]  4.0- 5.0 sec  58.9 KBytes   482 Kbits/sec  12.955 ms    0/   41 (0%)
+[ 15]  5.0- 6.0 sec  60.3 KBytes   494 Kbits/sec  12.949 ms    0/   42 (0%)
+[ 15]  6.0- 7.0 sec  58.9 KBytes   482 Kbits/sec  12.994 ms    0/   41 (0%)
+[ 15]  7.0- 8.0 sec  58.9 KBytes   482 Kbits/sec  12.969 ms    0/   41 (0%)
+[ 15]  8.0- 9.0 sec  60.3 KBytes   494 Kbits/sec  12.944 ms    0/   42 (0%)
+[ 15]  9.0-10.0 sec  58.9 KBytes   482 Kbits/sec  12.965 ms    0/   41 (0%)
+[ 15] 10.0-11.0 sec  58.9 KBytes   482 Kbits/sec  12.983 ms    0/   41 (0%)
+[ 15] 11.0-12.0 sec  57.4 KBytes   470 Kbits/sec  14.192 ms    0/   40 (0%)
+[ 15] 12.0-13.0 sec  58.9 KBytes   482 Kbits/sec  13.116 ms    0/   41 (0%)
+[ 15] 13.0-14.0 sec  60.3 KBytes   494 Kbits/sec  12.975 ms    0/   42 (0%)
+[ 15] 14.0-15.0 sec  58.9 KBytes   482 Kbits/sec  12.977 ms    0/   41 (0%)
+[ 15] 15.0-16.0 sec  58.9 KBytes   482 Kbits/sec  12.990 ms    0/   41 (0%)
+[ 15] 16.0-17.0 sec  60.3 KBytes   494 Kbits/sec  12.957 ms    0/   42 (0%)
+[ 15]  0.0-17.9 sec  1.04 MBytes   486 Kbits/sec  35.550 ms  154/  893 (17%)
+
+===============================================================================================================================
+CLIENT :
+
+------------------------------------------------------------
+Client connecting to 10.0.0.2, UDP port 5001
+Sending 1470 byte datagrams
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[ 15] local 10.0.0.1 port 39072 connected with 10.0.0.2 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[ 15]  0.0- 1.0 sec   129 KBytes  1.06 Mbits/sec
+[ 15]  1.0- 2.0 sec   128 KBytes  1.05 Mbits/sec
+[ 15]  2.0- 3.0 sec   128 KBytes  1.05 Mbits/sec
+[ 15]  3.0- 4.0 sec   128 KBytes  1.05 Mbits/sec
+[ 15]  4.0- 5.0 sec   128 KBytes  1.05 Mbits/sec
+[ 15]  5.0- 6.0 sec   128 KBytes  1.05 Mbits/sec
+[ 15]  6.0- 7.0 sec   129 KBytes  1.06 Mbits/sec
+[ 15]  7.0- 8.0 sec   128 KBytes  1.05 Mbits/sec
+[ 15]  8.0- 9.0 sec   128 KBytes  1.05 Mbits/sec
+[ 15]  9.0-10.0 sec   128 KBytes  1.05 Mbits/sec
+[ 15]  0.0-10.0 sec  1.25 MBytes  1.05 Mbits/sec
+[ 15] Sent 893 datagrams
+
+
+
+===============================================================================================================================
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Part 3
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+SERVER :
+------------------------------------------------------------
+Server listening on UDP port 5001
+Receiving 1470 byte datagrams
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[ 15] local 10.0.0.2 port 5001 connected with 10.0.0.1 port 44933
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[ 15]  0.0- 1.0 sec  60.3 KBytes   494 Kbits/sec  12.011 ms    0/   42 (0%)
+[ 15]  1.0- 2.0 sec  58.9 KBytes   482 Kbits/sec  12.911 ms    0/   41 (0%)
+[ 15]  2.0- 3.0 sec  60.3 KBytes   494 Kbits/sec  12.973 ms    0/   42 (0%)
+[ 15]  3.0- 4.0 sec  58.9 KBytes   482 Kbits/sec  12.972 ms    0/   41 (0%)
+[ 15]  4.0- 5.0 sec  58.9 KBytes   482 Kbits/sec  12.975 ms    0/   41 (0%)
+[ 15]  5.0- 6.0 sec  60.3 KBytes   494 Kbits/sec  12.976 ms    0/   42 (0%)
+[ 15]  6.0- 7.0 sec  58.9 KBytes   482 Kbits/sec  12.994 ms    0/   41 (0%)
+[ 15]  7.0- 8.0 sec  58.9 KBytes   482 Kbits/sec  12.997 ms    0/   41 (0%)
+[ 15]  8.0- 9.0 sec  60.3 KBytes   494 Kbits/sec  12.982 ms    0/   42 (0%)
+[ 15]  9.0-10.0 sec  58.9 KBytes   482 Kbits/sec  12.978 ms    0/   41 (0%)
+[ 15] 10.0-11.0 sec  58.9 KBytes   482 Kbits/sec  12.993 ms    0/   41 (0%)
+[ 15] 11.0-12.0 sec  60.3 KBytes   494 Kbits/sec  12.978 ms    0/   42 (0%)
+[ 15] 12.0-13.0 sec  58.9 KBytes   482 Kbits/sec  13.022 ms    0/   41 (0%)
+[ 15] 13.0-14.0 sec  58.9 KBytes   482 Kbits/sec  12.981 ms    0/   41 (0%)
+[ 15] 14.0-15.0 sec  60.3 KBytes   494 Kbits/sec  12.990 ms    0/   42 (0%)
+[ 15] 15.0-16.0 sec  58.9 KBytes   482 Kbits/sec  12.984 ms    0/   41 (0%)
+[ 15] 16.0-17.0 sec  58.9 KBytes   482 Kbits/sec  12.964 ms    0/   41 (0%)
+[ 15]  0.0-17.9 sec  1.04 MBytes   487 Kbits/sec  35.547 ms  154/  893 (17%)
+
+
+===============================================================================================================================
+CLIENT :
+
+------------------------------------------------------------
+Client connecting to 10.0.0.2, UDP port 5001
+Sending 1470 byte datagrams
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[ 15] local 10.0.0.1 port 44933 connected with 10.0.0.2 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[ 15]  0.0- 1.0 sec   129 KBytes  1.06 Mbits/sec
+[ 15]  1.0- 2.0 sec   128 KBytes  1.05 Mbits/sec
+[ 15]  2.0- 3.0 sec   128 KBytes  1.05 Mbits/sec
+[ 15]  3.0- 4.0 sec   128 KBytes  1.05 Mbits/sec
+[ 15]  4.0- 5.0 sec   128 KBytes  1.05 Mbits/sec
+[ 15]  5.0- 6.0 sec   128 KBytes  1.05 Mbits/sec
+[ 15]  6.0- 7.0 sec   129 KBytes  1.06 Mbits/sec
+[ 15]  7.0- 8.0 sec   128 KBytes  1.05 Mbits/sec
+[ 15]  8.0- 9.0 sec   128 KBytes  1.05 Mbits/sec
+[ 15]  9.0-10.0 sec   128 KBytes  1.05 Mbits/sec
+[ 15]  0.0-10.0 sec  1.25 MBytes  1.05 Mbits/sec
+[ 15] Sent 893 datagrams
+
+
+===============================================================================================================================
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Part 4
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+SERVER :
+------------------------------------------------------------
+Server listening on UDP port 5001
+Receiving 1470 byte datagrams
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[ 15] local 10.0.0.2 port 5001 connected with 10.0.0.1 port 33497
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[ 15]  0.0- 1.0 sec   119 KBytes   976 Kbits/sec   0.877 ms    0/   83 (0%)
+[ 15]  1.0- 2.0 sec   119 KBytes   976 Kbits/sec   0.922 ms    0/   83 (0%)
+[ 15]  2.0- 3.0 sec   119 KBytes   976 Kbits/sec   0.885 ms    0/   83 (0%)
+[ 15]  3.0- 4.0 sec   118 KBytes   964 Kbits/sec   0.868 ms    0/   82 (0%)
+[ 15]  4.0- 5.0 sec   119 KBytes   976 Kbits/sec   0.893 ms    0/   83 (0%)
+[ 15]  5.0- 6.0 sec   119 KBytes   976 Kbits/sec   0.882 ms    0/   83 (0%)
+[ 15]  6.0- 7.0 sec   118 KBytes   964 Kbits/sec   0.908 ms    0/   82 (0%)
+[ 15]  7.0- 8.0 sec   119 KBytes   976 Kbits/sec   0.871 ms    0/   83 (0%)
+[ 15]  8.0- 9.0 sec   119 KBytes   976 Kbits/sec   0.874 ms    0/   83 (0%)
+[ 15]  9.0-10.0 sec   118 KBytes   964 Kbits/sec   0.887 ms    0/   82 (0%)
+[ 15]  0.0-10.8 sec  1.25 MBytes   973 Kbits/sec   0.878 ms    0/  893 (0%)
+
+
+===============================================================================================================================
+CLIENT :
+------------------------------------------------------------
+Client connecting to 10.0.0.2, UDP port 5001
+Sending 1470 byte datagrams
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[ 15] local 10.0.0.1 port 33497 connected with 10.0.0.2 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[ 15]  0.0- 1.0 sec   129 KBytes  1.06 Mbits/sec
+[ 15]  1.0- 2.0 sec   128 KBytes  1.05 Mbits/sec
+[ 15]  2.0- 3.0 sec   128 KBytes  1.05 Mbits/sec
+[ 15]  3.0- 4.0 sec   128 KBytes  1.05 Mbits/sec
+[ 15]  4.0- 5.0 sec   128 KBytes  1.05 Mbits/sec
+[ 15]  5.0- 6.0 sec   128 KBytes  1.05 Mbits/sec
+[ 15]  6.0- 7.0 sec   129 KBytes  1.06 Mbits/sec
+[ 15]  7.0- 8.0 sec   128 KBytes  1.05 Mbits/sec
+[ 15]  8.0- 9.0 sec   128 KBytes  1.05 Mbits/sec
+[ 15]  9.0-10.0 sec   128 KBytes  1.05 Mbits/sec
+[ 15]  0.0-10.0 sec  1.25 MBytes  1.05 Mbits/sec
+[ 15] Sent 893 datagrams
+[ 15] Server Report:
+[ 15]  0.0-10.8 sec  1.25 MBytes   973 Kbits/sec   0.878 ms    0/  893 (0%)
+
+
+
+===============================================================================================================================
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Part 5
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+SERVER :
+------------------------------------------------------------
+Server listening on UDP port 5001
+Receiving 1470 byte datagrams
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[ 15] local 10.0.0.2 port 5001 connected with 10.0.0.1 port 56522
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[ 15]  0.0- 1.0 sec   119 KBytes   976 Kbits/sec   0.869 ms    0/   83 (0%)
+[ 15]  1.0- 2.0 sec   119 KBytes   976 Kbits/sec   0.888 ms    0/   83 (0%)
+[ 15]  2.0- 3.0 sec   119 KBytes   976 Kbits/sec   0.884 ms    0/   83 (0%)
+[ 15]  3.0- 4.0 sec   118 KBytes   964 Kbits/sec   0.889 ms    0/   82 (0%)
+[ 15]  4.0- 5.0 sec   119 KBytes   976 Kbits/sec   0.872 ms    0/   83 (0%)
+[ 15]  5.0- 6.0 sec   119 KBytes   976 Kbits/sec   0.869 ms    0/   83 (0%)
+[ 15]  6.0- 7.0 sec   118 KBytes   964 Kbits/sec   0.869 ms    0/   82 (0%)
+[ 15]  7.0- 8.0 sec   119 KBytes   976 Kbits/sec   0.884 ms    0/   83 (0%)
+[ 15]  8.0- 9.0 sec   119 KBytes   976 Kbits/sec   0.883 ms    0/   83 (0%)
+[ 15]  9.0-10.0 sec   118 KBytes   964 Kbits/sec   0.876 ms    0/   82 (0%)
+[ 15]  0.0-10.8 sec  1.25 MBytes   973 Kbits/sec   0.886 ms    0/  893 (0%)
+
+
+===============================================================================================================================
+CLIENT :
+------------------------------------------------------------
+Client connecting to 10.0.0.2, UDP port 5001
+Sending 1470 byte datagrams
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[ 15] local 10.0.0.1 port 56522 connected with 10.0.0.2 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[ 15]  0.0- 1.0 sec   129 KBytes  1.06 Mbits/sec
+[ 15]  1.0- 2.0 sec   128 KBytes  1.05 Mbits/sec
+[ 15]  2.0- 3.0 sec   128 KBytes  1.05 Mbits/sec
+[ 15]  3.0- 4.0 sec   128 KBytes  1.05 Mbits/sec
+[ 15]  4.0- 5.0 sec   128 KBytes  1.05 Mbits/sec
+[ 15]  5.0- 6.0 sec   128 KBytes  1.05 Mbits/sec
+[ 15]  6.0- 7.0 sec   129 KBytes  1.06 Mbits/sec
+[ 15]  7.0- 8.0 sec   128 KBytes  1.05 Mbits/sec
+[ 15]  8.0- 9.0 sec   128 KBytes  1.05 Mbits/sec
+[ 15]  9.0-10.0 sec   128 KBytes  1.05 Mbits/sec
+[ 15]  0.0-10.0 sec  1.25 MBytes  1.05 Mbits/sec
+[ 15] Sent 893 datagrams
+[ 15] Server Report:
+[ 15]  0.0-10.8 sec  1.25 MBytes   973 Kbits/sec   0.885 ms    0/  893 (0%)
+
+
+
+
+===============================================================================================================================
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Part 6
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+SERVER :
+
+------------------------------------------------------------
+Server listening on TCP port 5001
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+[ 16] local 10.0.0.2 port 5001 connected with 10.0.0.1 port 56535
+[ ID] Interval       Transfer     Bandwidth
+[ 16]  0.0- 1.0 sec  60.8 KBytes   498 Kbits/sec
+[ 16]  1.0- 2.0 sec  59.4 KBytes   487 Kbits/sec
+[ 16]  2.0- 3.0 sec  56.6 KBytes   463 Kbits/sec
+[ 16]  3.0- 4.0 sec  59.4 KBytes   487 Kbits/sec
+[ 16]  4.0- 5.0 sec  59.4 KBytes   487 Kbits/sec
+[ 16]  5.0- 6.0 sec  56.6 KBytes   463 Kbits/sec
+[ 16]  6.0- 7.0 sec  59.4 KBytes   487 Kbits/sec
+[ 16]  7.0- 8.0 sec  59.4 KBytes   487 Kbits/sec
+[ 16]  8.0- 9.0 sec  56.6 KBytes   463 Kbits/sec
+[ 16]  9.0-10.0 sec  59.4 KBytes   487 Kbits/sec
+[ 16] 10.0-11.0 sec  56.6 KBytes   463 Kbits/sec
+[ 16] 11.0-12.0 sec  59.4 KBytes   487 Kbits/sec
+[ 16] 12.0-13.0 sec  59.4 KBytes   487 Kbits/sec
+[ 16] 13.0-14.0 sec  56.6 KBytes   463 Kbits/sec
+[ 16] 14.0-15.0 sec  59.4 KBytes   487 Kbits/sec
+[ 16] 15.0-16.0 sec  59.4 KBytes   487 Kbits/sec
+[ 16] 16.0-17.0 sec  56.6 KBytes   463 Kbits/sec
+[ 16] 17.0-18.0 sec  59.4 KBytes   487 Kbits/sec
+[ 16] 18.0-19.0 sec  59.4 KBytes   487 Kbits/sec
+[ 16] 19.0-20.0 sec  56.6 KBytes   463 Kbits/sec
+[ 16] 20.0-21.0 sec  59.4 KBytes   487 Kbits/sec
+
+================================================================================================================================
+CLIENT :
+
+
+
+
+===============================================================================================================================
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Part 7
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+SERVER :
+
+------------------------------------------------------------
+Server listening on TCP port 5001
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+[ 16] local 10.0.0.2 port 5001 connected with 10.0.0.1 port 56535
+[ ID] Interval       Transfer     Bandwidth
+[ 16]  0.0- 1.0 sec  60.8 KBytes   498 Kbits/sec
+[ 16]  1.0- 2.0 sec  59.4 KBytes   487 Kbits/sec
+[ 16]  2.0- 3.0 sec  56.6 KBytes   463 Kbits/sec
+[ 16]  3.0- 4.0 sec  59.4 KBytes   487 Kbits/sec
+[ 16]  4.0- 5.0 sec  59.4 KBytes   487 Kbits/sec
+[ 16]  5.0- 6.0 sec  56.6 KBytes   463 Kbits/sec
+[ 16]  6.0- 7.0 sec  59.4 KBytes   487 Kbits/sec
+[ 16]  7.0- 8.0 sec  59.4 KBytes   487 Kbits/sec
+[ 16]  8.0- 9.0 sec  56.6 KBytes   463 Kbits/sec
+[ 16]  9.0-10.0 sec  59.4 KBytes   487 Kbits/sec
+[ 16] 10.0-11.0 sec  56.6 KBytes   463 Kbits/sec
+[ 16] 11.0-12.0 sec  59.4 KBytes   487 Kbits/sec
+[ 16] 12.0-13.0 sec  59.4 KBytes   487 Kbits/sec
+[ 16] 13.0-14.0 sec  56.6 KBytes   463 Kbits/sec
+[ 16] 14.0-15.0 sec  59.4 KBytes   487 Kbits/sec
+[ 16] 15.0-16.0 sec  59.4 KBytes   487 Kbits/sec
+[ 16] 16.0-17.0 sec  56.6 KBytes   463 Kbits/sec
+[ 16] 17.0-18.0 sec  59.4 KBytes   487 Kbits/sec
+[ 16] 18.0-19.0 sec  59.4 KBytes   487 Kbits/sec
+[ 16] 19.0-20.0 sec  56.6 KBytes   463 Kbits/sec
+[ 16] 20.0-21.0 sec  59.4 KBytes   487 Kbits/sec
+
+================================================================================================================================
+CLIENT :
+
+
+
+
+===============================================================================================================================
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Part 8
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+SERVER :
+
+------------------------------------------------------------
+Server listening on TCP port 5001
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+[ 16] local 10.0.0.2 port 5001 connected with 10.0.0.1 port 56535
+[ ID] Interval       Transfer     Bandwidth
+[ 16]  0.0- 1.0 sec  60.8 KBytes   498 Kbits/sec
+[ 16]  1.0- 2.0 sec  59.4 KBytes   487 Kbits/sec
+[ 16]  2.0- 3.0 sec  56.6 KBytes   463 Kbits/sec
+[ 16]  3.0- 4.0 sec  59.4 KBytes   487 Kbits/sec
+[ 16]  4.0- 5.0 sec  59.4 KBytes   487 Kbits/sec
+[ 16]  5.0- 6.0 sec  56.6 KBytes   463 Kbits/sec
+[ 16]  6.0- 7.0 sec  59.4 KBytes   487 Kbits/sec
+[ 16]  7.0- 8.0 sec  59.4 KBytes   487 Kbits/sec
+[ 16]  8.0- 9.0 sec  56.6 KBytes   463 Kbits/sec
+[ 16]  9.0-10.0 sec  59.4 KBytes   487 Kbits/sec
+[ 16] 10.0-11.0 sec  56.6 KBytes   463 Kbits/sec
+[ 16] 11.0-12.0 sec  59.4 KBytes   487 Kbits/sec
+[ 16] 12.0-13.0 sec  59.4 KBytes   487 Kbits/sec
+[ 16] 13.0-14.0 sec  56.6 KBytes   463 Kbits/sec
+[ 16] 14.0-15.0 sec  59.4 KBytes   487 Kbits/sec
+[ 16] 15.0-16.0 sec  59.4 KBytes   487 Kbits/sec
+[ 16] 16.0-17.0 sec  56.6 KBytes   463 Kbits/sec
+[ 16] 17.0-18.0 sec  59.4 KBytes   487 Kbits/sec
+[ 16] 18.0-19.0 sec  59.4 KBytes   487 Kbits/sec
+[ 16] 19.0-20.0 sec  56.6 KBytes   463 Kbits/sec
+[ 16] 20.0-21.0 sec  59.4 KBytes   487 Kbits/sec
+
+================================================================================================================================
+CLIENT :
+
+
+
+
+===============================================================================================================================
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Part 9
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+SERVER :
+
+------------------------------------------------------------
+Server listening on TCP port 5001
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+[ 16] local 10.0.0.2 port 5001 connected with 10.0.0.1 port 56535
+[ ID] Interval       Transfer     Bandwidth
+[ 16]  0.0- 1.0 sec  60.8 KBytes   498 Kbits/sec
+[ 16]  1.0- 2.0 sec  59.4 KBytes   487 Kbits/sec
+[ 16]  2.0- 3.0 sec  56.6 KBytes   463 Kbits/sec
+[ 16]  3.0- 4.0 sec  59.4 KBytes   487 Kbits/sec
+[ 16]  4.0- 5.0 sec  59.4 KBytes   487 Kbits/sec
+[ 16]  5.0- 6.0 sec  56.6 KBytes   463 Kbits/sec
+[ 16]  6.0- 7.0 sec  59.4 KBytes   487 Kbits/sec
+[ 16]  7.0- 8.0 sec  59.4 KBytes   487 Kbits/sec
+[ 16]  8.0- 9.0 sec  56.6 KBytes   463 Kbits/sec
+[ 16]  9.0-10.0 sec  59.4 KBytes   487 Kbits/sec
+[ 16] 10.0-11.0 sec  56.6 KBytes   463 Kbits/sec
+[ 16] 11.0-12.0 sec  59.4 KBytes   487 Kbits/sec
+[ 16] 12.0-13.0 sec  59.4 KBytes   487 Kbits/sec
+[ 16] 13.0-14.0 sec  56.6 KBytes   463 Kbits/sec
+[ 16] 14.0-15.0 sec  59.4 KBytes   487 Kbits/sec
+[ 16] 15.0-16.0 sec  59.4 KBytes   487 Kbits/sec
+[ 16] 16.0-17.0 sec  56.6 KBytes   463 Kbits/sec
+[ 16] 17.0-18.0 sec  59.4 KBytes   487 Kbits/sec
+[ 16] 18.0-19.0 sec  59.4 KBytes   487 Kbits/sec
+[ 16] 19.0-20.0 sec  56.6 KBytes   463 Kbits/sec
+[ 16] 20.0-21.0 sec  59.4 KBytes   487 Kbits/sec
+
+================================================================================================================================
+CLIENT :
+
+
+
+
+===============================================================================================================================

@@ -1,0 +1,486 @@
+for Directory 0
+Bandwidth : 64k
+UDP Normalized throughput :  94.7368421053 %
+UDP Packet Loss :  5.26315789474 %
+Packet Loss at S1 : 1.75438596491 %
+Packet Loss at S2 : 3.50877192982 %
+Packet Loss at H2 : 0.0 %
+######################################################################
+Bandwidth : 128k
+UDP Normalized throughput :  95.4545454545 %
+UDP Packet Loss :  4.54545454545 %
+Packet Loss at S1 : 0.909090909091 %
+Packet Loss at S2 : 3.63636363636 %
+Packet Loss at H2 : 0.0 %
+######################################################################
+Bandwidth : 256k
+UDP Normalized throughput :  94.9771689498 %
+UDP Packet Loss :  5.02283105023 %
+Packet Loss at S1 : 1.3698630137 %
+Packet Loss at S2 : 3.65296803653 %
+Packet Loss at H2 : 0.0 %
+######################################################################
+Bandwidth : 512k
+UDP Normalized throughput :  98.1709194862 %
+UDP Packet Loss :  1.82648401826 %
+Packet Loss at S1 : 0.228310502283 %
+Packet Loss at S2 : 1.59817351598 %
+Packet Loss at H2 : 0.0 %
+######################################################################
+Bandwidth : 1024k
+UDP Normalized throughput :  95.8775607499 %
+UDP Packet Loss :  4.10490307868 %
+Packet Loss at S1 : 1.8244013683 %
+Packet Loss at S2 : 2.28050171038 %
+Packet Loss at H2 : 0.0 %
+######################################################################
+Bandwidth : 2048k
+UDP Normalized throughput :  80.3025957601 %
+UDP Packet Loss :  19.6551724138 %
+Packet Loss at S1 : 17.816091954 %
+Packet Loss at S2 : 1.83908045977 %
+Packet Loss at H2 : 0.0 %
+######################################################################
+Bandwidth : 4096k
+UDP Normalized throughput :  44.6430898499 %
+UDP Packet Loss :  55.3369973966 %
+Packet Loss at S1 : 54.3245588661 %
+Packet Loss at S2 : 1.01243853052 %
+Packet Loss at H2 : 0.0 %
+######################################################################
+
+
+
+*************************************************************************
+for Directory 1
+Bandwidth : 64k
+UDP Normalized throughput :  96.3636363636 %
+UDP Packet Loss :  3.63636363636 %
+Packet Loss at S1 : 0.0 %
+Packet Loss at S2 : 3.63636363636 %
+Packet Loss at H2 : 0.0 %
+######################################################################
+Bandwidth : 128k
+UDP Normalized throughput :  97.2727272727 %
+UDP Packet Loss :  2.72727272727 %
+Packet Loss at S1 : 0.0 %
+Packet Loss at S2 : 2.72727272727 %
+Packet Loss at H2 : 0.0 %
+######################################################################
+Bandwidth : 256k
+UDP Normalized throughput :  97.6635514019 %
+UDP Packet Loss :  2.33644859813 %
+Packet Loss at S1 : 0.467289719626 %
+Packet Loss at S2 : 1.8691588785 %
+Packet Loss at H2 : 0.0 %
+######################################################################
+Bandwidth : 512k
+UDP Normalized throughput :  96.3334559672 %
+UDP Packet Loss :  3.66132723112 %
+Packet Loss at S1 : 1.83066361556 %
+Packet Loss at S2 : 1.83066361556 %
+Packet Loss at H2 : 0.0 %
+######################################################################
+Bandwidth : 1024k
+UDP Normalized throughput :  96.9152354261 %
+UDP Packet Loss :  3.07167235495 %
+Packet Loss at S1 : 1.13765642776 %
+Packet Loss at S2 : 1.93401592719 %
+Packet Loss at H2 : 0.0 %
+######################################################################
+Bandwidth : 2048k
+UDP Normalized throughput :  85.6896942126 %
+UDP Packet Loss :  14.2767295597 %
+Packet Loss at S1 : 12.7044025157 %
+Packet Loss at S2 : 1.57232704403 %
+Packet Loss at H2 : 0.0 %
+######################################################################
+Bandwidth : 4096k
+UDP Normalized throughput :  44.6843327267 %
+UDP Packet Loss :  55.2958152958 %
+Packet Loss at S1 : 54.4011544012 %
+Packet Loss at S2 : 0.894660894661 %
+Packet Loss at H2 : 0.0 %
+######################################################################
+
+
+
+*************************************************************************
+for Directory 2
+Bandwidth : 64k
+UDP Normalized throughput :  96.4285714286 %
+UDP Packet Loss :  3.57142857143 %
+Packet Loss at S1 : 0.0 %
+Packet Loss at S2 : 3.57142857143 %
+Packet Loss at H2 : 0.0 %
+######################################################################
+Bandwidth : 128k
+UDP Normalized throughput :  93.6936936937 %
+UDP Packet Loss :  6.30630630631 %
+Packet Loss at S1 : 0.900900900901 %
+Packet Loss at S2 : 5.40540540541 %
+Packet Loss at H2 : 0.0 %
+######################################################################
+Bandwidth : 256k
+UDP Normalized throughput :  95.8139534884 %
+UDP Packet Loss :  4.18604651163 %
+Packet Loss at S1 : 0.46511627907 %
+Packet Loss at S2 : 3.72093023256 %
+Packet Loss at H2 : 0.0 %
+######################################################################
+Bandwidth : 512k
+UDP Normalized throughput :  97.6998616788 %
+UDP Packet Loss :  2.29357798165 %
+Packet Loss at S1 : 0.688073394495 %
+Packet Loss at S2 : 1.60550458716 %
+Packet Loss at H2 : 0.0 %
+######################################################################
+Bandwidth : 1024k
+UDP Normalized throughput :  97.0497102973 %
+UDP Packet Loss :  2.93785310734 %
+Packet Loss at S1 : 0.790960451977 %
+Packet Loss at S2 : 2.14689265537 %
+Packet Loss at H2 : 0.0 %
+######################################################################
+Bandwidth : 2048k
+UDP Normalized throughput :  80.072846096 %
+UDP Packet Loss :  19.884057971 %
+Packet Loss at S1 : 17.7971014493 %
+Packet Loss at S2 : 2.08695652174 %
+Packet Loss at H2 : 0.0 %
+######################################################################
+Bandwidth : 4096k
+UDP Normalized throughput :  45.1184003322 %
+UDP Packet Loss :  54.8716452742 %
+Packet Loss at S1 : 54.2298716453 %
+Packet Loss at S2 : 0.641773628938 %
+Packet Loss at H2 : 0.0 %
+######################################################################
+
+
+
+*************************************************************************
+for Directory 3
+Bandwidth : 64k
+UDP Normalized throughput :  98.2456140351 %
+UDP Packet Loss :  1.75438596491 %
+Packet Loss at S1 : 0.0 %
+Packet Loss at S2 : 1.75438596491 %
+Packet Loss at H2 : 0.0 %
+######################################################################
+Bandwidth : 128k
+UDP Normalized throughput :  96.3302752294 %
+UDP Packet Loss :  3.66972477064 %
+Packet Loss at S1 : 1.83486238532 %
+Packet Loss at S2 : 1.83486238532 %
+Packet Loss at H2 : 0.0 %
+######################################################################
+Bandwidth : 256k
+UDP Normalized throughput :  95.0 %
+UDP Packet Loss :  5.0 %
+Packet Loss at S1 : 1.36363636364 %
+Packet Loss at S2 : 3.63636363636 %
+Packet Loss at H2 : 0.0 %
+######################################################################
+Bandwidth : 512k
+UDP Normalized throughput :  98.6143187067 %
+UDP Packet Loss :  1.3856812933 %
+Packet Loss at S1 : 0.230946882217 %
+Packet Loss at S2 : 1.15473441109 %
+Packet Loss at H2 : 0.0 %
+######################################################################
+Bandwidth : 1024k
+UDP Normalized throughput :  97.4636209203 %
+UDP Packet Loss :  2.53456221198 %
+Packet Loss at S1 : 1.38248847926 %
+Packet Loss at S2 : 1.15207373272 %
+Packet Loss at H2 : 0.0 %
+######################################################################
+Bandwidth : 2048k
+UDP Normalized throughput :  97.0493806614 %
+UDP Packet Loss :  2.97994269341 %
+Packet Loss at S1 : 0.974212034384 %
+Packet Loss at S2 : 2.00573065903 %
+Packet Loss at H2 : 0.0 %
+######################################################################
+Bandwidth : 4096k
+UDP Normalized throughput :  64.400761284 %
+UDP Packet Loss :  35.5781448539 %
+Packet Loss at S1 : 34.8157560356 %
+Packet Loss at S2 : 0.762388818297 %
+Packet Loss at H2 : 0.0 %
+######################################################################
+
+
+
+*************************************************************************
+for Directory 4
+Bandwidth : 64k
+UDP Normalized throughput :  96.4912280702 %
+UDP Packet Loss :  3.50877192982 %
+Packet Loss at S1 : 1.75438596491 %
+Packet Loss at S2 : 1.75438596491 %
+Packet Loss at H2 : 0.0 %
+######################################################################
+Bandwidth : 128k
+UDP Normalized throughput :  96.3302752294 %
+UDP Packet Loss :  3.66972477064 %
+Packet Loss at S1 : 2.75229357798 %
+Packet Loss at S2 : 0.917431192661 %
+Packet Loss at H2 : 0.0 %
+######################################################################
+Bandwidth : 256k
+UDP Normalized throughput :  96.3470319635 %
+UDP Packet Loss :  3.65296803653 %
+Packet Loss at S1 : 1.3698630137 %
+Packet Loss at S2 : 2.28310502283 %
+Packet Loss at H2 : 0.0 %
+######################################################################
+Bandwidth : 512k
+UDP Normalized throughput :  95.871559633 %
+UDP Packet Loss :  4.12844036697 %
+Packet Loss at S1 : 1.60550458716 %
+Packet Loss at S2 : 2.52293577982 %
+Packet Loss at H2 : 0.0 %
+######################################################################
+Bandwidth : 1024k
+UDP Normalized throughput :  97.5816989368 %
+UDP Packet Loss :  2.416570771 %
+Packet Loss at S1 : 1.03567318757 %
+Packet Loss at S2 : 1.38089758343 %
+Packet Loss at H2 : 0.0 %
+######################################################################
+Bandwidth : 2048k
+UDP Normalized throughput :  97.1875761381 %
+UDP Packet Loss :  2.80641466208 %
+Packet Loss at S1 : 1.08820160367 %
+Packet Loss at S2 : 1.71821305842 %
+Packet Loss at H2 : 0.0 %
+######################################################################
+Bandwidth : 4096k
+UDP Normalized throughput :  61.2326055476 %
+UDP Packet Loss :  38.7395200925 %
+Packet Loss at S1 : 37.6698467765 %
+Packet Loss at S2 : 1.06967331599 %
+Packet Loss at H2 : 0.0 %
+######################################################################
+
+
+
+*************************************************************************
+for Directory 5
+Bandwidth : 64k
+UDP Normalized throughput :  91.2280701754 %
+UDP Packet Loss :  8.77192982456 %
+Packet Loss at S1 : 3.50877192982 %
+Packet Loss at S2 : 5.26315789474 %
+Packet Loss at H2 : 0.0 %
+######################################################################
+Bandwidth : 128k
+UDP Normalized throughput :  99.0909090909 %
+UDP Packet Loss :  0.909090909091 %
+Packet Loss at S1 : 0.0 %
+Packet Loss at S2 : 0.909090909091 %
+Packet Loss at H2 : 0.0 %
+######################################################################
+Bandwidth : 256k
+UDP Normalized throughput :  95.871559633 %
+UDP Packet Loss :  4.12844036697 %
+Packet Loss at S1 : 2.29357798165 %
+Packet Loss at S2 : 1.83486238532 %
+Packet Loss at H2 : 0.0 %
+######################################################################
+Bandwidth : 512k
+UDP Normalized throughput :  96.1009174312 %
+UDP Packet Loss :  3.89908256881 %
+Packet Loss at S1 : 1.37614678899 %
+Packet Loss at S2 : 2.52293577982 %
+Packet Loss at H2 : 0.0 %
+######################################################################
+Bandwidth : 1024k
+UDP Normalized throughput :  96.7545882049 %
+UDP Packet Loss :  3.24074074074 %
+Packet Loss at S1 : 1.38888888889 %
+Packet Loss at S2 : 1.85185185185 %
+Packet Loss at H2 : 0.0 %
+######################################################################
+Bandwidth : 2048k
+UDP Normalized throughput :  97.2007702251 %
+UDP Packet Loss :  2.82909930716 %
+Packet Loss at S1 : 0.866050808314 %
+Packet Loss at S2 : 1.96304849885 %
+Packet Loss at H2 : 0.0 %
+######################################################################
+Bandwidth : 4096k
+UDP Normalized throughput :  61.1733599358 %
+UDP Packet Loss :  38.8125182802 %
+Packet Loss at S1 : 37.5840889149 %
+Packet Loss at S2 : 1.22842936531 %
+Packet Loss at H2 : 0.0 %
+######################################################################
+
+
+
+*************************************************************************
+for Directory 6
+Bandwidth : 64k
+UDP Normalized throughput :  94.6428571429 %
+UDP Packet Loss :  5.35714285714 %
+Packet Loss at S1 : 3.57142857143 %
+Packet Loss at S2 : 1.78571428571 %
+Packet Loss at H2 : 0.0 %
+######################################################################
+Bandwidth : 128k
+UDP Normalized throughput :  97.2727272727 %
+UDP Packet Loss :  2.72727272727 %
+Packet Loss at S1 : 0.0 %
+Packet Loss at S2 : 2.72727272727 %
+Packet Loss at H2 : 0.0 %
+######################################################################
+Bandwidth : 256k
+UDP Normalized throughput :  98.6363636364 %
+UDP Packet Loss :  1.36363636364 %
+Packet Loss at S1 : 0.0 %
+Packet Loss at S2 : 1.36363636364 %
+Packet Loss at H2 : 0.0 %
+######################################################################
+Bandwidth : 512k
+UDP Normalized throughput :  96.0829493088 %
+UDP Packet Loss :  3.91705069124 %
+Packet Loss at S1 : 0.230414746544 %
+Packet Loss at S2 : 3.6866359447 %
+Packet Loss at H2 : 0.0 %
+######################################################################
+Bandwidth : 1024k
+UDP Normalized throughput :  98.2716049383 %
+UDP Packet Loss :  1.72839506173 %
+Packet Loss at S1 : 1.11111111111 %
+Packet Loss at S2 : 0.617283950617 %
+Packet Loss at H2 : 0.0 %
+######################################################################
+Bandwidth : 2048k
+UDP Normalized throughput :  96.8041836142 %
+UDP Packet Loss :  3.19581638582 %
+Packet Loss at S1 : 0.755374782103 %
+Packet Loss at S2 : 2.44044160372 %
+Packet Loss at H2 : 0.0 %
+######################################################################
+Bandwidth : 4096k
+UDP Normalized throughput :  93.3810876472 %
+UDP Packet Loss :  6.6129959747 %
+Packet Loss at S1 : 4.51408855664 %
+Packet Loss at S2 : 2.09890741806 %
+Packet Loss at H2 : 0.0 %
+######################################################################
+
+
+
+*************************************************************************
+for Directory 7
+Bandwidth : 64k
+UDP Normalized throughput :  98.2456140351 %
+UDP Packet Loss :  1.75438596491 %
+Packet Loss at S1 : 1.75438596491 %
+Packet Loss at S2 : 0.0 %
+Packet Loss at H2 : 0.0 %
+######################################################################
+Bandwidth : 128k
+UDP Normalized throughput :  98.1981981982 %
+UDP Packet Loss :  1.8018018018 %
+Packet Loss at S1 : 0.0 %
+Packet Loss at S2 : 1.8018018018 %
+Packet Loss at H2 : 0.0 %
+######################################################################
+Bandwidth : 256k
+UDP Normalized throughput :  97.2222222222 %
+UDP Packet Loss :  2.77777777778 %
+Packet Loss at S1 : 1.38888888889 %
+Packet Loss at S2 : 1.38888888889 %
+Packet Loss at H2 : 0.0 %
+######################################################################
+Bandwidth : 512k
+UDP Normalized throughput :  97.7011494253 %
+UDP Packet Loss :  2.29885057471 %
+Packet Loss at S1 : 0.689655172414 %
+Packet Loss at S2 : 1.6091954023 %
+Packet Loss at H2 : 0.0 %
+######################################################################
+Bandwidth : 1024k
+UDP Normalized throughput :  96.5237543453 %
+UDP Packet Loss :  3.47624565469 %
+Packet Loss at S1 : 1.62224797219 %
+Packet Loss at S2 : 1.8539976825 %
+Packet Loss at H2 : 0.0 %
+######################################################################
+Bandwidth : 2048k
+UDP Normalized throughput :  97.5149941659 %
+UDP Packet Loss :  2.48411322935 %
+Packet Loss at S1 : 0.635470826112 %
+Packet Loss at S2 : 1.84864240324 %
+Packet Loss at H2 : 0.0 %
+######################################################################
+Bandwidth : 4096k
+UDP Normalized throughput :  93.9877445111 %
+UDP Packet Loss :  6.02479100605 %
+Packet Loss at S1 : 4.49697319112 %
+Packet Loss at S2 : 1.52781781493 %
+Packet Loss at H2 : 0.0 %
+######################################################################
+
+
+
+*************************************************************************
+for Directory 8
+Bandwidth : 64k
+UDP Normalized throughput :  100.0 %
+UDP Packet Loss :  0.0 %
+Packet Loss at S1 : 0.0 %
+Packet Loss at S2 : 0.0 %
+Packet Loss at H2 : 0.0 %
+######################################################################
+Bandwidth : 128k
+UDP Normalized throughput :  98.1981981982 %
+UDP Packet Loss :  1.8018018018 %
+Packet Loss at S1 : 0.900900900901 %
+Packet Loss at S2 : 0.900900900901 %
+Packet Loss at H2 : 0.0 %
+######################################################################
+Bandwidth : 256k
+UDP Normalized throughput :  98.1220657277 %
+UDP Packet Loss :  1.8779342723 %
+Packet Loss at S1 : 0.0 %
+Packet Loss at S2 : 1.8779342723 %
+Packet Loss at H2 : 0.0 %
+######################################################################
+Bandwidth : 512k
+UDP Normalized throughput :  96.0648148148 %
+UDP Packet Loss :  3.93518518519 %
+Packet Loss at S1 : 1.85185185185 %
+Packet Loss at S2 : 2.08333333333 %
+Packet Loss at H2 : 0.0 %
+######################################################################
+Bandwidth : 1024k
+UDP Normalized throughput :  96.875 %
+UDP Packet Loss :  3.125 %
+Packet Loss at S1 : 1.15740740741 %
+Packet Loss at S2 : 1.96759259259 %
+Packet Loss at H2 : 0.0 %
+######################################################################
+Bandwidth : 2048k
+UDP Normalized throughput :  97.5088850162 %
+UDP Packet Loss :  2.48842592593 %
+Packet Loss at S1 : 0.462962962963 %
+Packet Loss at S2 : 2.02546296296 %
+Packet Loss at H2 : 0.0 %
+######################################################################
+Bandwidth : 4096k
+UDP Normalized throughput :  92.9985228951 %
+UDP Packet Loss :  7.00147710487 %
+Packet Loss at S1 : 4.66765140325 %
+Packet Loss at S2 : 2.33382570162 %
+Packet Loss at H2 : 0.0 %
+######################################################################
+
+
+
+*************************************************************************

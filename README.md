@@ -1,3 +1,3 @@
 # Networks
 
-Fifth Semester course in IIT Kharagpur, Networks Lab Assignments
+Sixth Semester course in IIT Kharagpur, Networks Lab Assignments
